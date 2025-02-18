@@ -1,2 +1,5 @@
 - Fastify
 - Zod
+- Postgres
+- Redis
+- Drizzle
